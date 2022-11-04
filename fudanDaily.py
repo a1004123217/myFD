@@ -120,8 +120,8 @@ if __name__ == "__main__":
         sys.exit()
 
     login_info = {
-        "username": USERNAME,
-        "password": PASSWORD
+        "username": 21110850039,
+        "password": fDu250045
     }
 
     try:
